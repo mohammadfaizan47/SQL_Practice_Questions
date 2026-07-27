@@ -1,2 +1,4 @@
 Q.1)→ Create a Catalog , Schemas and create a Delta table inside of it.
 Q.2)→ Insert elements to the table we have made and query it.
+Q.3)→ TRUNCATE the table and then DELETE the whole table.
+Q.4)→ Add a new column to the table and Rename a column existing and delete a single rows existing with use of WHERE clause.
