@@ -1,2 +1,4 @@
 Q.1)→ Query and give top 3 customers who have highest total points.
 Q.2)→ Query the customers using AND, OR and LIKE.
+Q.3)→ Query the customers in Ascending & Descending order.
+Q.4)→ Query the customers by aggregating the membership_type of customers.
