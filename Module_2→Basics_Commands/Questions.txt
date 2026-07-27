@@ -1,1 +1,2 @@
-
+Q.1)→ Query and give top 3 customers who have highest total points.
+Q.2)→ Query the customers using AND, OR and LIKE.
