@@ -1,1 +1,2 @@
-
+Q.1)→ Create a Catalog , Schemas and create a Delta table inside of it.
+Q.2)→ Insert elements to the table we have made and query it.
