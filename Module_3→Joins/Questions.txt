@@ -1,1 +1,5 @@
-
+Q.1)→ Query the given tables using JOINS 
+          - INNER, 
+          - LEFT, 
+          - RIGHT, 
+          - UNION.
