@@ -26,3 +26,9 @@ Q.3)→ Before reloading fresh sales data into the order_sales table, you need t
       Write a SQL statement to accomplish this.
 Q.4)→ The order_sales table is no longer required because it has been replaced by a new version.
       Write a SQL statement to permanently remove the table and all of its associated metadata from the database.
+Q.5)→ The business has introduced two new attributes for the sales dataset:
+        • order_name
+        • cust_id
+      These columns must be added to the existing order_sales table. Additionally, the reporting team requires order_name to appear immediately after order_id 
+	and cust_id immediately after order_name.
+      Write a SQL statement to modify the table accordingly.
