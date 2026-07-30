@@ -21,5 +21,8 @@ Q.2)→ Your team is designing a Delta Lake table to store sales data. The table
         • Retain deleted data files for 7 days.
         • Retain Delta transaction logs for 30 days.
         • Ensure the table is created only if it does not already exist.
-Q.3)→ TRUNCATE the table and then DELETE the whole table.
-Q.4)→ Add a new column to the table and Rename a column existing and delete a single rows existing with use of WHERE clause.
+Q.3)→ Before reloading fresh sales data into the order_sales table, you need to remove all existing records while preserving the table structure, schema, 
+      and properties.
+      Write a SQL statement to accomplish this.
+Q.4)→ The order_sales table is no longer required because it has been replaced by a new version.
+      Write a SQL statement to permanently remove the table and all of its associated metadata from the database.
