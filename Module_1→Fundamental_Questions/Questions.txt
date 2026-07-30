@@ -1,4 +1,25 @@
-Q.1)→ Create a Catalog , Schemas and create a Delta table inside of it.
-Q.2)→ Insert elements to the table we have made and query it.
+Q.1)→ Your team is setting up a new analytics environment for a sales project in Databricks Unity Catalog.
+      Write the SQL statements to:
+        • Create a catalog named sql_practice if it does not already exist.
+        • Switch to the newly created catalog.
+        • Display all available catalogs.
+        • Create a schema named sales inside the sql_practice catalog if it does not already exist.
+        • Switch to the sales schema.
+        • Display all schemas available in the current catalog.
+Q.2)→ Your team is designing a Delta Lake table to store sales data. The table should support efficient writes, Change Data Feed (CDF), column mapping, 
+      and optimized file management for future ETL workloads.
+      Write a SQL statement to create a Delta table named order_sales with the following requirements:
+      Store the columns:
+        • order_id as an integer
+        • customer_name as a string
+        • amount as a double
+        • date_arrival as a date
+        • Enable column mapping using name mode.
+        • Enable Change Data Feed (CDF).
+        • Enable Optimize Write.
+        • Enable Auto Compaction.
+        • Retain deleted data files for 7 days.
+        • Retain Delta transaction logs for 30 days.
+        • Ensure the table is created only if it does not already exist.
 Q.3)→ TRUNCATE the table and then DELETE the whole table.
 Q.4)→ Add a new column to the table and Rename a column existing and delete a single rows existing with use of WHERE clause.
