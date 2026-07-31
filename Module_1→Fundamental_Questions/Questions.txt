@@ -35,4 +35,6 @@ Q.5)→ The business has introduced two new attributes for the sales dataset:
 Q.6)→ The business has decided to adopt a new naming convention for its sales tables. The column customer_name should now be renamed to cust_name to maintain 
       consistency across the data warehouse.
       Write a SQL statement to rename the column without affecting the existing data.
-
+Q.7)→ During a schema cleanup, it was determined that the cust_id column in the order_sales table is no longer required because the information is available 
+      from another source.
+      Write a SQL statement to remove the cust_id column from the table without affecting the remaining data.
