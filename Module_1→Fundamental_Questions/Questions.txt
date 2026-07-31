@@ -38,3 +38,5 @@ Q.6)→ The business has decided to adopt a new naming convention for its sales 
 Q.7)→ During a schema cleanup, it was determined that the cust_id column in the order_sales table is no longer required because the information is available 
       from another source.
       Write a SQL statement to remove the cust_id column from the table without affecting the remaining data.
+Q.8)→ During a data quality audit, it was discovered that the sales record with order_id = 101 was inserted incorrectly and must be removed from the order_sales        table.
+      Write a SQL statement to delete only this record while leaving all other records unchanged.
