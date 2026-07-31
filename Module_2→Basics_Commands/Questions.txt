@@ -1,4 +1,4 @@
-Q.1)→ Query and give top 3 customers who have highest total points.
-Q.2)→ Query the customers using AND, OR and LIKE.
+Q.1)→ During data validation, you want to quickly inspect a small sample of customer records instead of querying the entire table.
+      Write a SQL query to retrieve the first 3 records from the customers table.Q.2)→ Query the customers using AND, OR and LIKE.
 Q.3)→ Query the customers in Ascending & Descending order.
 Q.4)→ Query the customers by aggregating the membership_type of customers.
