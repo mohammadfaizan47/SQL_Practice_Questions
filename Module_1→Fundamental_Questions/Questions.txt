@@ -30,5 +30,9 @@ Q.5)→ The business has introduced two new attributes for the sales dataset:
         • order_name
         • cust_id
       These columns must be added to the existing order_sales table. Additionally, the reporting team requires order_name to appear immediately after order_id 
-	and cust_id immediately after order_name.
+	  and cust_id immediately after order_name.
       Write a SQL statement to modify the table accordingly.
+Q.6)→ The business has decided to adopt a new naming convention for its sales tables. The column customer_name should now be renamed to cust_name to maintain 
+      consistency across the data warehouse.
+      Write a SQL statement to rename the column without affecting the existing data.
+
