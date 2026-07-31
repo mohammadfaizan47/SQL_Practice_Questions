@@ -1,4 +1,6 @@
 Q.1)→ During data validation, you want to quickly inspect a small sample of customer records instead of querying the entire table.
       Write a SQL query to retrieve the first 3 records from the customers table.
 Q.2)→ The marketing team wants to target customers who are enrolled in the Platinum membership program and are 28 years old for an exclusive promotional campaign.
-      Write a SQL query to retrieve all details of these customers.Q.4)→ Query the customers by aggregating the membership_type of customers.
+      Write a SQL query to retrieve all details of these customers.
+Q.3)→ The marketing team wants to launch a personalized campaign targeting customers whose names start with the letter 'A'.
+      Write a SQL query to retrieve all details of these customers.
