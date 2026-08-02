@@ -6,3 +6,5 @@ Q.3)→ The marketing team wants to launch a personalized campaign targeting cus
       Write a SQL query to retrieve all details of these customers.
 Q.4)→ The loyalty team wants to reward the customers with the highest reward points.
       Write a SQL query to retrieve the details of the top 3 customers based on their total_points.
+Q.5)→ The reporting team wants the customer's name to appear in the report with the column heading cust_name instead of customer_name.
+      Write a SQL query to display all customer details while renaming the customer_name column to cust_name in the output.
