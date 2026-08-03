@@ -4,3 +4,5 @@ Q.1)→ The business wants a report containing all customers, regardless of whet
 Q.2)→ The operations team wants to generate an order report that includes every order, even if the corresponding customer information is missing.
       Write a SQL query to display all order details along with the matching customer information. Orders that do not have a corresponding customer 
       record should still appear in the result.
+Q.3)→ The business wants a single report containing all customer names and supplier names in one list.
+      Write a SQL query to combine the names from both tables into a single result set while removing duplicate values.
