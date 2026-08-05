@@ -2,3 +2,5 @@ Q.1)→ Before building an ETL pipeline, you need to understand the structure of
       Write SQL queries to retrieve the schema details (column names, data types, and related metadata) for both the customers and orders tables.
 Q.2)→ You have been assigned to troubleshoot a permission issue where a user is unable to query the customers table.
       Write a SQL query to display all the privileges granted on the customers table so that you can verify the user's access.
+Q.3)→ A data entry mistake caused the customer name 'Kabir' to be stored incorrectly. The correct name should be 'Faizan'.
+      Write a SQL query to update the customer record by replacing 'Kabir' with 'Faizan' in the customers table.
