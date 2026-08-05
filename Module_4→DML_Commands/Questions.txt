@@ -1,2 +1,4 @@
 Q.1)→ Before building an ETL pipeline, you need to understand the structure of the source tables.
       Write SQL queries to retrieve the schema details (column names, data types, and related metadata) for both the customers and orders tables.
+Q.2)→ You have been assigned to troubleshoot a permission issue where a user is unable to query the customers table.
+      Write a SQL query to display all the privileges granted on the customers table so that you can verify the user's access.
