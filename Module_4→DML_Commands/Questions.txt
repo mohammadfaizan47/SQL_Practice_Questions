@@ -1,1 +1,2 @@
-
+Q.1)→ Before building an ETL pipeline, you need to understand the structure of the source tables.
+      Write SQL queries to retrieve the schema details (column names, data types, and related metadata) for both the customers and orders tables.
