@@ -7,3 +7,5 @@ Q.3)→ A data entry mistake caused the customer name 'Kabir' to be stored incor
 Q.4)→ During a data cleanup exercise, the business team identified that all customer records with the name 'Faizan' are invalid and should be 
       removed from the database.
       Write a SQL query to delete these records from the customers table.
+Q.5)→ You have been asked to perform a security audit on the database.
+      Write a SQL query to retrieve all privilege information granted on the customers table by querying the system metadata.
