@@ -1,1 +1,6 @@
-
+Q.1)→ The finance team wants to analyze the pricing of each order after applying different pricing stages. For every order in the orders table:
+      • Add a fixed tax of 1000 to the original order_amount and name it taxed_price.
+      • After tax, apply a promotional discount of 500 and name the result offed_price.
+      • Calculate 10% of the discounted price and display it as discounted_amount.
+      • Calculate the final payable amount after applying a 10% discount on the discounted price and name it discounted_price.
+      • Round the final payable amount to one decimal place and display it as rounded_price.
