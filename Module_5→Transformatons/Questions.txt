@@ -10,3 +10,12 @@ Q.2)→ While generating an audit report, the operations team wants to compare e
         • the current system date,
         • the current system time,
         • and the current system timestamp
+Q.3)→ The reporting team is building a calendar-based sales dashboard and needs additional date-related information for every order.
+      Write a SQL query to display the following for each order:
+        • The original order_date.
+        • The year, month, and day extracted from the order date.
+        • The numeric day of the week and the corresponding day name.
+        • The date 2 days after the order date.
+        • The date 2 days before the order date.
+        • The total number of days between the order date and the current system date.
+        • Convert the string '2026-01-01' into a TIMESTAMP and display it as a separate column.
