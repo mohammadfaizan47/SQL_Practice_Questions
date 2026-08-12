@@ -4,3 +4,9 @@ Q.1)→ The finance team wants to analyze the pricing of each order after applyi
       • Calculate 10% of the discounted price and display it as discounted_amount.
       • Calculate the final payable amount after applying a 10% discount on the discounted price and name it discounted_price.
       • Round the final payable amount to one decimal place and display it as rounded_price.
+Q.2)→ While generating an audit report, the operations team wants to compare each order's recorded date with the system's current date and time.
+      Write a SQL query to display:
+        • the order_date,
+        • the current system date,
+        • the current system time,
+        • and the current system timestamp
