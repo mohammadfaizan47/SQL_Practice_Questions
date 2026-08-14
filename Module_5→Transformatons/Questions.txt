@@ -24,3 +24,7 @@ Q.4)→ The business team wants order dates to be displayed in a user-friendly f
         • the original order_date, and
         • the same date formatted as:
            Day, Year-Month-Day
+Q.5)→ The customer IDs are currently stored as numeric values. A downstream application requires them to be sent as text for data integration.
+      Write a SQL query to display:
+        • the original customer_id, and
+        • the same customer_id converted to a string data type with a maximum length of 100 characters.
