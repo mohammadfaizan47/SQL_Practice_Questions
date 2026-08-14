@@ -19,3 +19,8 @@ Q.3)→ The reporting team is building a calendar-based sales dashboard and need
         • The date 2 days before the order date.
         • The total number of days between the order date and the current system date.
         • Convert the string '2026-01-01' into a TIMESTAMP and display it as a separate column.
+Q.4)→ The business team wants order dates to be displayed in a user-friendly format for a customer-facing report instead of the default database format.
+      Write a SQL query to display:
+        • the original order_date, and
+        • the same date formatted as:
+           Day, Year-Month-Day
