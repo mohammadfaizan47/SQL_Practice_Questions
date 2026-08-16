@@ -32,3 +32,5 @@ Q.6)→ A reporting dashboard requires a single descriptive field for each custo
       Write a SQL query to create:
         • a column combining customer_name and city, and
         • another column combining customer_name, city, and age, with each value separated by a space.
+Q.7)→ The customer support team wants to analyze the length of city names for data quality and reporting purposes.
+      Write a SQL query to display all customer details along with the number of characters present in each customer's city name.
