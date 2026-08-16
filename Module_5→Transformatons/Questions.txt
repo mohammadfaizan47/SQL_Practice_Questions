@@ -28,3 +28,7 @@ Q.5)→ The customer IDs are currently stored as numeric values. A downstream ap
       Write a SQL query to display:
         • the original customer_id, and
         • the same customer_id converted to a string data type with a maximum length of 100 characters.
+Q.6)→ A reporting dashboard requires a single descriptive field for each customer instead of displaying multiple columns.
+      Write a SQL query to create:
+        • a column combining customer_name and city, and
+        • another column combining customer_name, city, and age, with each value separated by a space.
