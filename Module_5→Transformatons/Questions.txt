@@ -34,3 +34,10 @@ Q.6)→ A reporting dashboard requires a single descriptive field for each custo
         • another column combining customer_name, city, and age, with each value separated by a space.
 Q.7)→ The customer support team wants to analyze the length of city names for data quality and reporting purposes.
       Write a SQL query to display all customer details along with the number of characters present in each customer's city name.
+Q.8)→ As part of a customer data standardization process, the business team requires multiple transformations on customer information.
+      Write a SQL query to display:
+        • the original city,
+        • the city name in lowercase,
+        • the city name in uppercase,
+        • the first four characters of the membership_type,
+        • and a modified version of the city where every occurrence of 'Delhi' is replaced with 'Jaipur'.
