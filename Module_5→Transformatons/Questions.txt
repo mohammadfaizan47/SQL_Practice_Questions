@@ -41,3 +41,9 @@ Q.8)→ As part of a customer data standardization process, the business team re
         • the city name in uppercase,
         • the first four characters of the membership_type,
         • and a modified version of the city where every occurrence of 'Delhi' is replaced with 'Jaipur'.
+Q.9)→ The customer analytics team is preparing data for a reporting application and needs several string transformations on customer information.
+      Write a SQL query to display:
+        • the first three characters of each customer's city,
+        • the last three characters of each customer's city,
+        • the city name in reverse order,
+        • and the customer's name repeated twice in a single column.
