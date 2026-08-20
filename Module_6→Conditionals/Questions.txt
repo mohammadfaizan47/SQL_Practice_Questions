@@ -1,1 +1,2 @@
-
+Q.1)→ Display all the records from the orders table along with the cumulative sum and cumulative average of order_amount,
+      ordered by order_date.
