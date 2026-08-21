@@ -1,2 +1,4 @@
 Q.1)→ Display all the records from the orders table along with the cumulative sum and cumulative average of order_amount,
       ordered by order_date.
+Q.2)→ Display all the records from the orders table along with the cumulative sum of order_amount from the first row to 
+      the current row based on order_date. Explicitly specify the window frame.
