@@ -5,3 +5,5 @@ Q.2)→ Display all the records from the orders table along with the cumulative 
 Q.3)→ Display all the records from the orders table along with the total sum of order_amount for all rows, repeated on 
       every row, while ordering the data by order_date.
 Q.4)→ Display the order_amount along with its ROW_NUMBER, RANK, and DENSE_RANK based on order_amount in ascending order.
+Q.5)→ Display the order_amount and category along with the ROW_NUMBER, RANK, and DENSE_RANK of each order within its respective
+      category, ordered by order_amount in ascending order.
