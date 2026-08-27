@@ -1,1 +1,5 @@
-
+Q.1)→ The finance team wants to analyze how sales have accumulated over time instead of viewing only individual order amounts.
+      Write a SQL query to display all order details along with:
+        • the running (cumulative) total of order_amount, and
+        • the running (cumulative) average of order_amount,
+      based on the chronological order of order_date.
