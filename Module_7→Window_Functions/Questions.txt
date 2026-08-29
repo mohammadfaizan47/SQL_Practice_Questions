@@ -6,3 +6,5 @@ Q.1)→ The finance team wants to analyze how sales have accumulated over time i
 Q.2)→ The finance team wants to track cumulative sales over time. Instead of relying on the default behavior of window functions, they want the 
       calculation to explicitly include all rows from the first order up to the current order.
       Write a SQL query to display all order details along with the running total of order_amount, explicitly defining the window frame.
+Q.3)→ The finance team wants every order in the sales report to display the overall sales amount of the company, while still showing each individual order.
+      Write a SQL query to display all order details along with the total sales across all orders. The total sales should appear on every row of the result.
