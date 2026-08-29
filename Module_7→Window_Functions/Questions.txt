@@ -3,3 +3,6 @@ Q.1)→ The finance team wants to analyze how sales have accumulated over time i
         • the running (cumulative) total of order_amount, and
         • the running (cumulative) average of order_amount,
       based on the chronological order of order_date.
+Q.2)→ The finance team wants to track cumulative sales over time. Instead of relying on the default behavior of window functions, they want the 
+      calculation to explicitly include all rows from the first order up to the current order.
+      Write a SQL query to display all order details along with the running total of order_amount, explicitly defining the window frame.
