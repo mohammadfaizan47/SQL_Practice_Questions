@@ -8,3 +8,10 @@ Q.2)→ The finance team wants to track cumulative sales over time. Instead of r
       Write a SQL query to display all order details along with the running total of order_amount, explicitly defining the window frame.
 Q.3)→ The finance team wants every order in the sales report to display the overall sales amount of the company, while still showing each individual order.
       Write a SQL query to display all order details along with the total sales across all orders. The total sales should appear on every row of the result.
+Q.4)→ The finance team wants to compare orders based on their value and understand how different ranking methods handle duplicate order amounts.
+      Write a SQL query to display:
+        • order_amount
+        • a unique sequential number for each order,
+        • the rank of each order,
+        • and the dense rank of each order,
+      based on order_amount in ascending order.
