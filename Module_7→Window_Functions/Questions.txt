@@ -15,3 +15,11 @@ Q.4)→ The finance team wants to compare orders based on their value and unders
         • the rank of each order,
         • and the dense rank of each order,
       based on order_amount in ascending order.
+Q.5)→ The business wants to compare the value of orders within each product category rather than across the entire dataset.
+      Write a SQL query to display:
+        • category
+        • order_amount
+        • a unique sequential number for each order within its category,
+        • the rank of each order within its category,
+        • and the dense rank of each order within its category,
+      based on order_amount in ascending order.
