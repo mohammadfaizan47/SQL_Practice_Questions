@@ -1,1 +1,2 @@
-
+Q.1)→ The sales team wants to understand the average order value for each product category.
+      Write a SQL query to display each category along with its average order_amount.
