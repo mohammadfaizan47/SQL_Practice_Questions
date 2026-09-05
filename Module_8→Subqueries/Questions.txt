@@ -1,2 +1,4 @@
 Q.1)→ The sales team wants to understand the average order value for each product category.
       Write a SQL query to display each category along with its average order_amount.
+Q.2)→ The finance team wants to analyze high-value orders. Generate a report that includes only those orders whose value exceeds 4,957.
+      Write a SQL query to retrieve all details of these orders.
