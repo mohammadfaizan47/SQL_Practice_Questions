@@ -1,1 +1,9 @@
-
+Q.1)→ The sales team wants to analyze selected high-value products. A high-value order is one whose order_amount is greater than the overall 
+      average order amount.
+      Write a SQL query to retrieve all details of orders that:
+        • have an order_amount greater than the overall average order amount, and
+        • belong to one of the following products:
+        • Laptop
+        • Shoes
+        • Watch
+      You may use a Common Table Expression (CTE) if it improves the readability of your solution.
