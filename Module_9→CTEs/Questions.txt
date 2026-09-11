@@ -7,3 +7,13 @@ Q.1)→ The sales team wants to analyze selected high-value products. A high-val
         • Shoes
         • Watch
       You may use a Common Table Expression (CTE) if it improves the readability of your solution.
+Q.2)→ The sales team wants to identify high-value Laptop orders for further analysis.
+      A high-value order is defined as an order whose order_amount is greater than the overall average order amount.
+      Write a SQL query to retrieve all details of orders that:
+      • have an order_amount greater than the overall average order amount,
+      • belong to one of the following products:
+      • Laptop
+      • Shoes
+      • Watch
+      • and finally return only the Laptop orders from this filtered dataset.
+      Structure your solution using multiple Common Table Expressions (CTEs) to improve readability.
