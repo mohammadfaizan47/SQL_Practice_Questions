@@ -4,4 +4,5 @@ Set of SQL Questions i have made of each modules which are being asked from SQL 
 Modules Includes such as :\
 • Fundamentals\
 • Basic Commands\
-• Joins
+• Joins\
+• DML Commands
