@@ -5,4 +5,5 @@ Modules Includes such as :\
 • Fundamentals\
 • Basic Commands\
 • Joins\
-• DML Commands
+• DML Commands\
+• Transformations
