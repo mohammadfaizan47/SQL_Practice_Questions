@@ -6,4 +6,5 @@ Modules Includes such as :\
 • Basic Commands\
 • Joins\
 • DML Commands\
-• Transformations
+• Transformations\
+• Conditionals
