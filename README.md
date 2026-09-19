@@ -7,4 +7,5 @@ Modules Includes such as :\
 • Joins\
 • DML Commands\
 • Transformations\
-• Conditionals
+• Conditionals\
+• Window Functions
