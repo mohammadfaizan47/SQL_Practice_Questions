@@ -8,4 +8,5 @@ Modules Includes such as :\
 • DML Commands\
 • Transformations\
 • Conditionals\
-• Window Functions
+• Window Functions\
+• Subqueries
