@@ -9,4 +9,5 @@ Modules Includes such as :\
 • Transformations\
 • Conditionals\
 • Window Functions\
-• Subqueries
+• Subqueries \
+• CTEs
