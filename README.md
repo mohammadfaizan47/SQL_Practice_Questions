@@ -1,7 +1,7 @@
 # SQL_Practice_Questions
-Set of SQL Questions i have made of each modules which are being asked from SQL Portion to a Fresher in Data Domain
+Set of SQL Questions i have made of each modules which are being asked from SQL Portion to a Fresher in Data Domain interviews.
 
-Modules Includes such as :\
+Modules Including such as :\
 • Fundamentals\
 • Basic Commands\
 • Joins\
